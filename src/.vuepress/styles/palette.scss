@@ -1,0 +1,48 @@
+// you can change colors here
+//$theme-color: (light: #8dd471, dark: #386a20);
+
+$theme-color-dark: #8dd471;
+
+$theme-color-light: #386a20;
+
+$bg-color: (
+  light: #fff,
+  dark: #0d1117,
+) !default;
+
+
+$text-color: (
+  light: #1A1C18,
+  dark: #e3e3dc,
+);
+
+$bg-color: (
+  light: #FFF,
+  dark: #1a1c18,
+);
+
+$bg-color-secondary: (
+  light: #FADEBC,
+  dark: #56442B,
+);
+
+$bg-color-on-secondary: (
+  dark: #FADEBC,
+  light: #56442B,
+);
+
+$bg-color-tertiary: (
+  light: #bbebeb,
+  dark: #1e4e4e,
+);
+
+$dark-grey: (
+  light: #333,
+  dark: #BBB,
+);
+
+$light-grey: (
+  light: #666,
+  dark: #e0e0e0,
+);
+

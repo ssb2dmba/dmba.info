@@ -1,0 +1,21 @@
+// place your custom styles here
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital@0;1&display=swap');
+
+$font-family: 'Work Sans', sans-serif;
+
+.i18n-dropdown, .edit-link {
+    display: none;
+}
+
+
+.hero-info-wrapper h1 {
+    background: var(--text-color);
+    background-clip: text;
+}
+
+
+.navbar-center, .navbar .nav-item > .nav-link ,.navbar .nav-item > .nav-link  {
+    background-color: var(--bg-color-secondary);
+    border-radius: 12px;
+    color: var(--bg-color-on-secondary);
+}

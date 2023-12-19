@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/\",\"lang\":\"en-US\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"en-US\",\"title\":\"DMBA\",\"description\":\"Decentralized Micro Blogging Association\"},\"/fr/\":{\"lang\":\"fr-FR\",\"title\":\"Français\",\"description\":\"Decentralized Micro Blogging Association\"}}}")

@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-23836778\",\"path\":\"/home/blog/livre-blanc.html\",\"title\":\"Pour une nouvelle mise en oeuvre du protocole ssb\",\"lang\":\"en-US\",\"frontmatter\":{\"title\":\"Pour une nouvelle mise en oeuvre du protocole ssb\",\"icon\":\"config\",\"description\":\"Introduction Dans la transmission instantanée des nouvelles par Internet, ce que l'ont appelle les réseaux sociaux, s'appuie essentiellement sur des entreprises commerciales. Ce...\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://imdb.info/home/blog/livre-blanc.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"DMBA\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"Pour une nouvelle mise en oeuvre du protocole ssb\"}],[\"meta\",{\"property\":\"og:description\",\"content\":\"Introduction Dans la transmission instantanée des nouvelles par Internet, ce que l'ont appelle les réseaux sociaux, s'appuie essentiellement sur des entreprises commerciales. Ce...\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"en-US\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"Pour une nouvelle mise en oeuvre du protocole ssb\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[]}\"]]},\"headers\":[{\"level\":2,\"title\":\"Introduction\",\"slug\":\"introduction\",\"link\":\"#introduction\",\"children\":[]},{\"level\":2,\"title\":\"Art Antérieur\",\"slug\":\"art-anterieur\",\"link\":\"#art-anterieur\",\"children\":[]},{\"level\":2,\"title\":\"Resistance au spam, harcèlement en ligne, fausses informations et toxicité\",\"slug\":\"resistance-au-spam-harcelement-en-ligne-fausses-informations-et-toxicite\",\"link\":\"#resistance-au-spam-harcelement-en-ligne-fausses-informations-et-toxicite\",\"children\":[]},{\"level\":2,\"title\":\"Engagement de légal du service hébergé, droit à l'oubli, sauvegarde des messages, rotation des secrets, récupération des secrets\",\"slug\":\"engagement-de-legal-du-service-heberge-droit-a-l-oubli-sauvegarde-des-messages-rotation-des-secrets-recuperation-des-secrets\",\"link\":\"#engagement-de-legal-du-service-heberge-droit-a-l-oubli-sauvegarde-des-messages-rotation-des-secrets-recuperation-des-secrets\",\"children\":[]},{\"level\":2,\"title\":\"Decouvertes des pairs\",\"slug\":\"decouvertes-des-pairs\",\"link\":\"#decouvertes-des-pairs\",\"children\":[]}],\"readingTime\":{\"minutes\":3.92,\"words\":1175},\"filePathRelative\":\"home/blog/livre-blanc.md\",\"autoDesc\":true}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
