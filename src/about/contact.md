@@ -9,7 +9,7 @@ category:
 # contact
 
 ::: tip email
-- info :email: dmba.info
+- emmanuel.florent :email: gmail.com
 :::
 
 ::: tip github
