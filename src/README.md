@@ -1,5 +1,6 @@
 ---
 home: true
+layout: BlogHome
 icon: icon-home
 title: Decentralized Micro Blogging Association
 heroImage: /logo.svg
@@ -23,3 +24,4 @@ The Decentralized Microblogging Association (DMBA) releases two Secure Scuttlebu
 The DMBA is an emergent collective that organizes the development of a social network called based on SecretStack, SecretHandshake and Secure Scuttlebutt. This association comprises individuals who are motivated by shared values and a common interest in creating a more decentralized and secure online environment. Through their collective efforts, the Decentralized Microblogging Association is working to foster innovation and collaboration in the development of the Secure Scuttlebutt network, and to promote the adoption of decentralized social networking as a viable alternative to traditional centralized platforms.
 
 DMBA publishes two Secure Scuttlebut (SSB) software. Delog, and Android Secure Scuttlebut client and ssb-relay an SSB server.
+

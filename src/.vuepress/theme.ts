@@ -46,9 +46,11 @@ export default hopeTheme({
   },
 
   plugins: {
+    blog: true,
     comment: false,
     // all features are enabled for demo, only preserve features you need here
     mdEnhance: {
+      components: true,
       align: true,
       attrs: true,
       chart: true,
@@ -66,9 +68,6 @@ export default hopeTheme({
       mermaid: true,
       playground: {
         presets: ["ts", "vue"],
-      },
-      presentation: {
-        plugins: ["highlight", "math", "search", "notes", "zoom"],
       },
       stylize: [
         {

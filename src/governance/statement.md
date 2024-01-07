@@ -1,9 +1,8 @@
 ---
 title: mission statement
-index: true
+article: False
+index: False
 icon: build
-category:
-  - governance
 ---
 
 Social, gossip, or gossip-type networks can be enhanced. An ideal network should aim to:

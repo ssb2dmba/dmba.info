@@ -1,6 +1,7 @@
 ---
 title: Features
-index: true
+index: False
+article: False
 order: 1
 icon: define
 category:

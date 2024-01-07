@@ -2,6 +2,7 @@
 title: organisation
 index: true
 icon: build
+article: false
 category:
   - governance
 ---

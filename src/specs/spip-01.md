@@ -1,6 +1,7 @@
 ---
 title: invite-code client flow
 index: true
+article: False
 order: 11
 icon: enum
 category:

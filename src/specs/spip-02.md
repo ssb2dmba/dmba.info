@@ -1,6 +1,7 @@
 ---
 title: message flow
 index: true
+article: False
 order: 12
 icon: enum
 category:

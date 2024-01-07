@@ -1,6 +1,7 @@
 ---
 title: Protocol
-index: true
+index: True
+article: False
 order: 2
 icon: api
 category:

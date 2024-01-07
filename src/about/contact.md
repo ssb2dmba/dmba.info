@@ -1,7 +1,8 @@
 ---
 title: contact
-index: true
+index: false
 icon: more
+article: false
 category:
   - about
 ---

@@ -1,6 +1,7 @@
 ---
 title: delog
-index: true
+index: false
+article: false
 icon: android
 category:
   - projects

@@ -1,6 +1,7 @@
 ---
 title: decentralized identifier
-index: true
+article: False
+index: False
 order: 13
 icon: enum
 category:

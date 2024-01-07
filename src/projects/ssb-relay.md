@@ -1,6 +1,6 @@
 ---
 title: ssb-relay
-index: true
+article: false
 icon: any
 category:
   - projects
