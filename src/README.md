@@ -3,7 +3,8 @@ home: true
 layout: BlogHome
 icon: icon-home
 title: Decentralized Micro Blogging Association
-heroImage: /logo.svg
+heroImage: False
+bgImage: False
 heroText: decentralized micro blogging association
 tagline: Building a social network that respect the planet, privacy and freedom
 actions:
