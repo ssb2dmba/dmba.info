@@ -2,6 +2,7 @@
 title: Adventures in Building a Self-Certified and Decentralized Social Network
 icon: config
 author: Emmanuel Florent
+date: 2024-01-07
 ---
 
 From the inception of the Internet, I've been a firm believer in its social capabilities. The Social Web has always appealed to me, and the advent of Social Networks, despite my initial skepticism, was no exception. Although I was wary of Facebook's dominance, I was open to sharing photos, but couldn't bring myself to use Instagram due to my commitment to the ideals of the Internet.

@@ -1,6 +1,7 @@
 ---
 title: Reloading Secure Scuttlebut
 icon: config
+date: 2023-12-19
 ---
 
 ## Introduction
