@@ -1,5 +1,5 @@
 ---
-title: With great power comes great responsibility
+title: With great power comes great responsibilities
 icon: config
 author: Emmanuel Florent
 date: 2024-04-20
