@@ -6,13 +6,12 @@ date: 2024-04-20
 
 ---
 
+If you are new to this blog, [Delog](https://github.com/ssb2dmba/delog) is a decentralized Android mobile micro-blogging application. It works like Mastodon but is easier to host a server and it's mobile oriented. Delog is based on the [Secure Scuttlebut](https://en.wikipedia.org/wiki/Secure_Scuttlebutt) (SSB) [Protocol originaly created by Dominic Tar & friends](https://ssbc.github.io/scuttlebutt-protocol-guide/).
+
+This quarter, Delog has made exceptional progress. First of all, we have implemented support for attachments, including images, videos, and other files. This change is crucial because it involves hosting these attachments on the relay server. Beyond the freedom to express a message in text (and rich text), with Delog, we can now share content.
 
 I now use Delog every day to maintain a blog of photographs of my family. It's very convenient to be able to transfer my photos from my mobile to the server without any loss of quality, without compression. My relay server functions as a storage space for my photos.
 
-If you are new to this blog, [Delog](https://github.com/ssb2dmba/delog) is a decentralized Android mobile micro-blogging application. It works like Mastodon but is easier to host a server and it's mobile oriented. Delog is based on the [Secure Scuttlebut](https://en.wikipedia.org/wiki/Secure_Scuttlebutt) (SSB) [Protocol originaly created by Dominic Tar & friends](https://ssbc.github.io/scuttlebutt-protocol-guide/).
-
-
-This quarter, Delog has made exceptional progress. First of all, we have implemented support for attachments, including images, videos, and other files. This change is crucial because it involves hosting these attachments on the relay server. Beyond the freedom to express a message in text (and rich text), with Delog, we can now share content.
 
 However, this has several consequences, as it opens the door to content hosting through the relay server. The relay server becomes a powerful content host. 
 
