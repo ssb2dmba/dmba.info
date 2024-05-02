@@ -24,7 +24,7 @@ Secure Scuttlebutt is a revolutionary protocol designed to create decentralized 
 
 - [spip-01 : invite-code flow](spip-01.md)
 - [spip-02 : message flow](spip-02.md) 
-- [spip-03 : decentralized identifier](spip-03.md)
+- [spip-03 : message deletion](spip-03.md)
 
 
 The SPIP process begins with a proposal from an individual or a group within the community. The proposal is then reviewed and discussed by other members, such as developers and users.
