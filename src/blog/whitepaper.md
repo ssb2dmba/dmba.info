@@ -38,7 +38,7 @@ Additionally, he publish the Secure ScuttleBut (SSB) protocol. SSB defines itsel
 
  For a quick description of the Secure Scutllebut protocol, SSB see [the white paper in 4mn](https://web.archive.org/web/20190716152343/https://infourminutes.co/whitepaper/scuttlebutt), and [the guide of the SSB protocol](https://ssbc.github.io/scuttlebutt-protocol-guide/).
 
-## Overview of current status
+## Overview of current status (2022-2024)
 
 Alas, despite all its capabilities we have yet to find a popular application of the SSB protocol. There is no social network based on the SSB protocol with a significant number of users. Is it because of the lack of sufficiently comprehensive implementation?
 
@@ -230,11 +230,8 @@ The use of call limitation devices should be an integral part of the relay serve
 
 ## Peer discovery
 
-What if all relay servers could see each other and "shake hands", may be only on invite ?
-The addition of an implementation, in the pub server, of a discovery service by "Distributed Hash Table" ([definition](https://en.wikipedia.org/wiki/Distributed_hash_table), [example of implementation](https://www.npmjs.com/package/hyperswarm)) seems completely relevant.
-- Invitation and automatic follow-up to discover relay servers between them?
-- What rules for the use of the epidemic diffusion algorithm?
-- If the SSB network is essentially based on the fact that the clients pull the messages, shouldn't a "push" type operation be introduced between the relay servers to optimize transmissions? What are others optimizations to be done ?
+An SSB-Relay shall implement the whole activity pub protocol and implementations details.
+It could also act as a bridge or gateway for identities behind a Namecoin name or behind a Tor network traversal.
 
 ## Conclusion
 
