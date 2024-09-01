@@ -15,7 +15,7 @@ We believe that the Fediverse can be improved thanks to [Secure Scuttlebutt](htt
 
 ## What SecureScuttlebutt can bring to ActivityPub
 
-- A fast and smooth client-server identification protocol (secret-stack). Secret Stack uses ed25519 and LibSodium strong primitives. It provides a capability based identification protocol ensuring both identification of sender and message integrity.
+- A fast and smooth client-server identification protocol [secret-stack](https://ssbc.github.io/scuttlebutt-protocol-guide/#peer-connections). Secret Stack uses ed25519 and LibSodium strong primitives. It provides a capability based identification protocol ensuring both identification of sender and message integrity.
 - An end-to-end encryption protocol (e2ee): SSB offers and-to-end encryption (E2EE) made possible with the libsodium library by using a combination of cryptographic algorithms and techniques that ensure that only the communicating parties can access the encrypted data. [SSB private messages are described here](https://ssbc.github.io/scuttlebutt-protocol-guide/#private-messages).
 - A server registration protocol [ssb-invites](https://ssbc.github.io/scuttlebutt-protocol-guide/#invites): a decentralized mechanism for securely inviting new members to join an SSB network by exchanging signed invitation messages and establishing trust relationships. It enables discovery and connection to other nodes in the network without relying on centralized authorities or infrastructure. 
 - A client-first approach where data primarily remains on the client. The point could be pushed to the limit where and ssb-relay could delete messages after having it distributed them and just keep the like counter.
